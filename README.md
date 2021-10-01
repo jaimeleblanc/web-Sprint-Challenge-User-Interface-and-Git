@@ -45,7 +45,7 @@ Edit this document to include your answers after each question. Make sure to lea
  - the x-axis (horizontal)
 
 5. Explain why git is valuable to a team of developers.
- - Git is a version control system and is valuable to developers because it allows everyone to work on the latest version of the product. Similarly, if the new version has bugs, they can go back to a previous version.
+ - Git is a version control system and is valuable to developers because it allows everyone to work on the latest version of the code. Similarly, if the new version has bugs, they can go back to a previous version.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
