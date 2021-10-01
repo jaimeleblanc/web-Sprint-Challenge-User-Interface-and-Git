@@ -77,7 +77,7 @@ p {
     height:auto;
     padding: 10px;
 }
-a {
+a{
     color: black;
     text-decoration: none; /* no underline */
   }
@@ -110,7 +110,12 @@ nav{
     margin: auto;
     border:orange;
 }
-
+.container about-page{
+    width: 48%;
+    padding: 0 1%;
+    padding-bottom: 20px; 
+    border:orange;
+}
 .top-content {
     display: flex;
     flex-wrap: wrap;
@@ -241,6 +246,7 @@ nav{
     align-items: center;
     justify-content: center;
 }
+
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
