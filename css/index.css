@@ -68,14 +68,14 @@ p {
 .headContainer{
     display: flex;
     width:auto;
-    border:solid yellow;
+    /*border:solid yellow;*/
 }
 .logo{
-    border:solid;
+    /*border:solid;*/
     padding-left: 1%;
     width:auto;
     height:auto;
-    padding: 5px;
+    padding: 10px;
 }
 a {
     color: black;
@@ -83,9 +83,9 @@ a {
   }
 .navbar{
     display: flex;
-    border:solid purple;
+    /*border:solid purple;*/
     justify-content: space-evenly;
-    width: 75%;
+    width: 100%;
     /*align-items: left;*/
     padding: 20px 2%;
 }
@@ -93,9 +93,9 @@ nav{
     width: 100%;
     display: flex;
    /* align-items: left;*/
-    font-size: 14px;
+   padding-top:8px;
+    font-size: 16px;
     justify-content: space-around;
-    border:cyan;
 }
 .topImage{
     width: 100%;
@@ -103,7 +103,7 @@ nav{
     max-width: 100%;
     padding-top: 2%;
     padding-bottom:2%;
-    border:solid red;
+    /*border:solid red;*/
 }
 .container {
     width: auto;
