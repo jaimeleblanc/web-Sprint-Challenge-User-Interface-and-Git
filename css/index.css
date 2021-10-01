@@ -75,9 +75,9 @@ p {
     padding-left: 1%;
     width:auto;
     height:auto;
-    padding: 5px;
+    padding: 10px;
 }
-a {
+a{
     color: black;
     text-decoration: none; /* no underline */
   }
@@ -93,7 +93,8 @@ nav{
     width: 100%;
     display: flex;
    /* align-items: left;*/
-    font-size: 14px;
+   padding-top:8px;
+    font-size: 16px;
     justify-content: space-around;
 }
 .topImage{
@@ -103,14 +104,18 @@ nav{
     padding-top: 2%;
     padding-bottom:2%;
     /*border:solid red;*/
-    /*comment*/
 }
 .container {
     width: auto;
     margin: auto;
     border:orange;
 }
-
+.container about-page{
+    width: 48%;
+    padding: 0 1%;
+    padding-bottom: 20px; 
+    border:orange;
+}
 .top-content {
     display: flex;
     flex-wrap: wrap;
@@ -241,6 +246,7 @@ nav{
     align-items: center;
     justify-content: center;
 }
+
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
