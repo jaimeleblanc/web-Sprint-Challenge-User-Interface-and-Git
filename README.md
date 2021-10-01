@@ -33,7 +33,7 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read.
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
- - Semantic HTML is the best way for both the browser and the developer to understand the information and has a clear structure.
+ - Semantic HTML labels page sections according to what they are, so it is clear to browser and developer what content is contained within. This gives a clear structure to the page and eliminates unclear and nondescriptive tags, such as <div>. Semantic HTML is a best practice when coding modern websites. It is also helpful for accessibility because screen readers they can better understand what the stuff is.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
  - display:block is displayed as a block and has some built in whitespace, while display:inline is displayed on the same line, without the boxy structure.
